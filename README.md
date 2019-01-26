@@ -20,4 +20,4 @@ A simple https server for debugging local websites.
 ## Licence
 
 This project is Copyright (c) 2019 Osric Wilkinson (osric@fluffypeople.com) and
-licenced under the (ISC licence)[LICENCE]
+licenced under the [ISC licence](LICENCE)
