@@ -1,4 +1,4 @@
-# Simple Server
+# Static Server
 
 A simple https server for debugging local websites.
 
@@ -11,11 +11,11 @@ A simple https server for debugging local websites.
 
 ### Serve the contents of the current folder on port 8443 (redirecting http from 8080)
 
-    simple-server :8080 :8443 .
+    static-server :8080 :8443 .
 
 ### Give world readable access to your passwords (DON'T DO THIS!)
 
-    sudo simple-server :80 :443 /etc
+    sudo static-server :80 :443 /etc
 
 ## Licence
 
