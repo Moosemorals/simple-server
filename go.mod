@@ -1,4 +1,4 @@
-module github.com/moosemorals/simple-server
+module github.com/moosemorals/static-server
 
 require (
 	github.com/gorilla/handlers v1.4.0
